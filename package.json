@@ -6,5 +6,6 @@
     "base58-solidity": "https://github.com/storyicon/base58-solidity",
     "stringutils": "https://github.com/Arachnid/solidity-stringutils",
     "lib-blake-2b": "https://github.com/Mc01/lib-blake-2b"
-  }
+  },
+  "version": "1.0.0"
 }
